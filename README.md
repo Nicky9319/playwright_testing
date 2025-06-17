@@ -8,6 +8,7 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb
 
 2. Folder to store the fresh chrome profile data => /tmp/chrome-debug-profile/
+   google-chrome --remote-debugging-port=9222 --user-data-dir=/tmp/chrome-debug-profile
 
 3. Run and test the py file
    
