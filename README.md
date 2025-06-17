@@ -12,3 +12,5 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 3. Run and test the py file
    
 Note: We might need to run the browser beforehand in headful mode and do google login
+
+Note: We are using Ubuntu-20.04 for the same
