@@ -1,5 +1,4 @@
-#Setting up playwright with chrome profile
-Steps
+# Steps to Setting up playwright with chrome profile
 
 
 ## 1. install chrome inside the Linux
