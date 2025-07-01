@@ -1,8 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-USER_DATA_DIR = "/home/paarth/.config/google-chrome/"
-USER_DATA_DIR = "/tmp/chrome-debug-profile/"
+# USER_DATA_DIR = "/home/paarth/.config/google-chrome/"
+USER_DATA_DIR = "/home/paarth/chrome-debug-profile/"
 
 print("working...")
 
